@@ -19,7 +19,7 @@ Haunting VHS Beauties© /
 Crypto Art.
 NFT Creator. / 
 @firefenix.xyz / 
-https://firefenix.xyz/
+[firefenix.xyz]  (https://firefenix.xyz/) 
 
 
 
@@ -43,7 +43,7 @@ Visual project that had been developed between 2016 and 2023.
 **Serfuego©** is the blend of Artistic branding and a new look at the design of Culture.
 It ranges from astrology to the most luxurious cult objects.
 Serfuego© is the identity of a period of time of a remote Studio producing pieces of Art & Design.
-https://serfuego.online/
+[Serfuego] (https://serfuego.online/) 
 
 <img width="553" alt="Romantiv_" src="https://github.com/CISCOMATTE/CISCOMATTE/assets/175187086/f5653800-36b3-429d-bc41-6476146015df">
 
@@ -51,9 +51,10 @@ https://serfuego.online/
 **Romantiv_**
 Anonymous collective poetry.
 Digital language internet and narrativist prose writing project.
-https://romantiv.com/
+[Romantiv_] (https://romantiv.com/)
 
 
 
 
-Contact info: **framattex@gmail.com** / 2024 - All rights reserved.
+Contact info: **framattex@gmail.com** / 2024 - All rights reserved. 
+[Fran Matte] (https://franciscoluismatte.com/)
