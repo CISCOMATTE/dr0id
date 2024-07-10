@@ -4,7 +4,7 @@
 
 2024 -
 B™ / 
-Barthes™ / 
+*Barthes™* / 
 Digital Remix of Analog aesthetics.
 Haunting VHS Beauties© / 
 @barthes.vhs
@@ -15,7 +15,7 @@ Haunting VHS Beauties© /
 
 
 2021 / 2024 - 
-FireFenix.XYZ / 
+*FireFenix.XYZ* / 
 Crypto Art.
 NFT Creator. / 
 @firefenix.xyz / 
@@ -39,8 +39,8 @@ Online Culture / Free to See / Free to Be
 <img width="731" alt="Serfuego_" src="https://github.com/CISCOMATTE/CISCOMATTE/assets/175187086/77ca0b41-ccdb-411b-a6d6-a3fb397b086e">
 
 
-Visual project that will be developed between 2016 and 2023.
-Serfuego© is the blend of Artistic branding and a new look at the design of Culture.
+Visual project that had been developed between 2016 and 2023.
+*Serfuego©* is the blend of Artistic branding and a new look at the design of Culture.
 It ranges from astrology to the most luxurious cult objects.
 Serfuego© is the identity of a period of time of a remote Studio producing pieces of Art & Design.
 https://serfuego.online/
@@ -48,6 +48,7 @@ https://serfuego.online/
 <img width="553" alt="Romantiv_" src="https://github.com/CISCOMATTE/CISCOMATTE/assets/175187086/f5653800-36b3-429d-bc41-6476146015df">
 
 2017 - Lingustic semantic software.
+*Romantiv_*
 Anonymous collective poetry.
 Digital language internet and narrativist prose writing project.
 https://romantiv.com/
@@ -55,4 +56,4 @@ https://romantiv.com/
 
 
 
-Contact info: framattex@gmail.com 2024 - All rights reserved.
+Contact info: *framattex@gmail.com* / 2024 - All rights reserved.
