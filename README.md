@@ -2,11 +2,11 @@
 
 
 
-2024
-B™
-Barthes™
+2024 -
+B™ / 
+Barthes™ / 
 Digital Remix of Analog aesthetics.
-Haunting VHS Beauties©
+Haunting VHS Beauties© / 
 @barthes.vhs
 
 
@@ -14,11 +14,11 @@ Haunting VHS Beauties©
 
 
 
-2021-2024
-FireFenix.XYZ
+2021 / 2024 - 
+FireFenix.XYZ / 
 Crypto Art.
-NFT Creator.
-@firefenix.xyz
+NFT Creator. / 
+@firefenix.xyz / 
 https://firefenix.xyz/
 
 
@@ -47,7 +47,7 @@ https://serfuego.online/
 
 <img width="553" alt="Romantiv_" src="https://github.com/CISCOMATTE/CISCOMATTE/assets/175187086/f5653800-36b3-429d-bc41-6476146015df">
 
-2017 / Lingustic semantic software.
+2017 - Lingustic semantic software.
 Anonymous collective poetry.
 Digital language internet and narrativist prose writing project.
 https://romantiv.com/
