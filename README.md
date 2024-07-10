@@ -56,5 +56,5 @@ Digital language internet and narrativist prose writing project.
 
 
 
-Contact info: **framattex@gmail.com** / 2024 - All rights reserved. 
-[Fran Matte] (https://franciscoluismatte.com/)
+
+Contact info: **framattex@gmail.com** / 2024 - All rights reserved.
